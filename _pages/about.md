@@ -23,8 +23,7 @@ Professor, Doctoral supervisor, Qingdao West Coast high-level shortage of introd
 Hong Kong University of Science and Technology visiting scholars, 
 Ph.D in Computer Science and Engineering from <font color="#48aee" ><b>Ocean University of China</b></font>. 
 He is engaged in the research of Internet of Things, Artificial Intelligence, Deep Reinforcement Learning, 
-UAV Intelligent Collaboration, Robot Cluster Collaborative Intelligence, 
-and Marine Internet of Things, etc. 
+UAV Intelligent Collaboration, Robot Cluster Collaborative Intelligence, Marine Internet of Things and Large Language Model & Agentic System. 
 He has presided one project of the <font color="#48aee" ><b>National Natural Science Foundation of China(General Program)</b></font>, 
 one sub-topic project of the <font color="#48aee" ><b>National Natural Science Foundation of China (Key Program)</b></font>, 
 two projects of the Shandong Provincial Natural Science Foundation, 
@@ -32,7 +31,7 @@ and one Shandong Province university Scientific Research Project,
 and has participated in more than ten projects of the National High-tech R&D Program of China <font color="#48aee" ><b>(863 Program)</b></font>,
 National Basic Research Program of China<font color="#48aee" ><b>(973 Program)</b></font>.
 He has won Shandong Province Universities Excellent Scientific Research Achievement Award (1st Place), 
-5 authorized invention patents (1st Place), 
+8 authorized invention patents (1st Place), 
 National Teaching Achievement Award (2nd prize), 
 Shandong Province Provincial Teaching Achievement Award (special prize), 
 and Shandong Province Provincial Teaching Achievement Award (2nd prize).
