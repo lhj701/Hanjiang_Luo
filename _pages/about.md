@@ -19,7 +19,7 @@ redirect_from:
 
 # Biography
 
-Professor, Doctoral supervisor, Qingdao West Coast high-level talents, Hong Kong University of Science and Technology visiting scholars, 
+Professor,罗 Doctoral supervisor, Qingdao West Coast high-level talents, Hong Kong University of Science and Technology visiting scholars, 
 Ph.D in Computer Science and Engineering from <font color="#48aee" ><b>Ocean University of China</b></font>. 
 He is engaged in the research of Internet of Things, Artificial Intelligence, Deep Reinforcement Learning, 
 UAV Intelligent Collaboration, Robot Cluster Collaborative Intelligence, Marine Internet of Things and LLM based Agentic Systems, etc.  
